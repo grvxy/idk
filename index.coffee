@@ -2,8 +2,8 @@
 # MODIFIABLE PARAMETERS
 # -------------------------------------------------------------------------------------------------
 positionOptions =
-  vertical: 'bottom'        # Vertical position [bottom, center, top]
-  horizontal: 'left'        # Horizontal position [left, center, right]
+  vertical: 'center'        # Vertical position [bottom, center, top]
+  horizontal: 'center'        # Horizontal position [left, center, right]
   paddingEnabled: true      # Enable secure margin, avoiding touching edges [true or false]
   paddingPercentageX: '3%'  # Padding percentage applied to the X axis [value + '%']
   paddingPercentageY: '3%'  # Padding percentage applied to the Y axis [value + '%']
